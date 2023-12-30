@@ -51,5 +51,3 @@ More to come, soon.
     <img src="https://i.gyazo.com/63afdd764cdca533af5ebca843217a7e.gif" />
 </p>
 
-
-
